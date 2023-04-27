@@ -1,0 +1,5 @@
+pandas~=1.5.3
+geopandas~=0.12.2
+plotly~=5.9.0
+dash~=2.7.0
+dash_bootstrap_components
